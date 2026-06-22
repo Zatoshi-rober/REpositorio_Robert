@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace REpositorio_Robert
+{
+    internal class BolaHielo
+    {
+
+        public void Congelar(ICongelable objetivo)
+        {
+            objetivo.Congelar();
+        }
+    }
+}

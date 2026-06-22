@@ -1,0 +1,7 @@
+C:\Users\sena\Documents\REpositorio_Robert\REpositorio_Robert\bin\Debug\REpositorio_Robert.exe.config
+C:\Users\sena\Documents\REpositorio_Robert\REpositorio_Robert\bin\Debug\REpositorio_Robert.exe
+C:\Users\sena\Documents\REpositorio_Robert\REpositorio_Robert\bin\Debug\REpositorio_Robert.pdb
+C:\Users\sena\Documents\REpositorio_Robert\REpositorio_Robert\obj\Debug\REpositorio_Robert.csproj.AssemblyReference.cache
+C:\Users\sena\Documents\REpositorio_Robert\REpositorio_Robert\obj\Debug\REpositorio_Robert.csproj.CoreCompileInputs.cache
+C:\Users\sena\Documents\REpositorio_Robert\REpositorio_Robert\obj\Debug\REpositorio_Robert.exe
+C:\Users\sena\Documents\REpositorio_Robert\REpositorio_Robert\obj\Debug\REpositorio_Robert.pdb
