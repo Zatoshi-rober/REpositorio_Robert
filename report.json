@@ -1,0 +1,3845 @@
+{
+  "MachineName": "BOGDFPCGMP5334",
+  "UserName": "SENA",
+  "StartTime": "2026-07-01T09:38:08.1861812-05:00",
+  "EndTime": null,
+  "Ended": false,
+  "TotalDurationSeconds": 8895.7612837,
+  "DisallowedSwitchCount": 62,
+  "TotalActivations": 340,
+  "Timeline": [
+    {
+      "Timestamp": "2026-07-01T09:38:08.2363664-05:00",
+      "ProcessName": "ExamProctor",
+      "WindowTitle": "Supervisión de Evaluación",
+      "DurationSeconds": 1.0593885,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:38:09.2957549-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "Microsoft Visual Studio",
+      "DurationSeconds": 3.9979144,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:38:13.2936693-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 128.5411435,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:40:21.8348128-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "Agregar nuevo elemento - evaluacion_robert",
+      "DurationSeconds": 2.0185384,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:40:23.8533512-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 3.9865172,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:40:27.8398684-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 20.0528783,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:40:47.8927467-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.9978002,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:40:49.8905469-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 139.6359799,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:43:09.5265268-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.0198357,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:43:11.5463625-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 24.0525522,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:43:35.5989147-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 0.993171,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:43:36.5920857-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 86.2810331,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:45:02.8731188-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.027131,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:45:04.9002498-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 13.0192805,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:45:17.9195303-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 4.0621818,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:45:21.9817121-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 28.1658752,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:45:50.1475873-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 7.052016,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:45:57.1996033-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 33.166787,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:46:30.3663903-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 12.0913403,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:46:42.4577306-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 24.1046154,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:47:06.562346-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 5.0157043,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:47:11.5780503-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 14.1122817,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:47:25.690332-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.9958635,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:47:27.6861955-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 115.6229705,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:49:23.309166-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.0033883,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:49:25.3125543-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 99.4316136,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:51:04.7441679-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "Agregar nuevo elemento - evaluacion_robert",
+      "DurationSeconds": 1.9948987,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:51:06.7390666-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 5.010096,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:51:11.7491626-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 10.0370609,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:51:21.7862235-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 17.0635517,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:51:38.8497752-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "Agregar nuevo elemento - evaluacion_robert",
+      "DurationSeconds": 2.997834,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:51:41.8476092-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.001767,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:51:43.8493762-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 11.0068638,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:51:54.85624-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "Agregar nuevo elemento - evaluacion_robert",
+      "DurationSeconds": 7.0379042,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:52:01.8941442-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.002098,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:52:03.8962422-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 7.0536811,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:52:10.9499233-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 65.2508932,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:53:16.2008165-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 9.0159017,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:53:25.2167182-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 55.2249125,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:54:20.4416307-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 5.0140065,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:54:25.4556372-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 46.1850065,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:55:11.6406437-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 45.2145966,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:55:56.8552403-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 59.280879,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:56:56.1361193-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 8.028943,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:57:04.1650623-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 49.1842471,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:57:53.3493094-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 16.9967755,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:58:10.3460849-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 15.0481401,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:58:25.394225-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 40.1354785,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:59:05.5297035-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 38.2214307,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T09:59:43.7511342-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 68.3668111,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:00:52.1179453-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 53.1653252,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:01:45.2832705-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.000821,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:01:47.2840915-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 40.1945287,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:02:27.4786202-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 3.9947998,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:02:31.47342-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 2.0107473,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:02:33.4841673-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 5.0197112,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:02:38.5038785-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 2.001238,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:02:40.5051165-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 3.0193945,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:02:43.524511-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 3.0000361,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:02:46.5245471-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 4.9953731,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:02:51.5199202-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 32.0760174,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:03:23.5959376-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 59.3708234,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:04:22.966761-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 9.034143,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:04:32.000904-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 5.0299188,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:04:37.0308228-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 39.2122443,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:05:16.2430671-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.0013685,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:05:18.2444356-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 1.0124844,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:05:19.25692-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 24.0518109,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:05:43.3087309-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.9986939,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:05:45.3074248-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 21.0417881,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:06:06.3492129-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 10.0578862,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:06:16.4070991-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 3.0404627,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:06:19.4475618-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 4.9907322,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:06:24.438294-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 6.0319795,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:06:30.4702735-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 16.0735271,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:06:46.5438006-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 32.1088277,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:07:18.6526283-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "Agregar nuevo elemento - evaluacion_robert",
+      "DurationSeconds": 6.0203316,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:07:24.6729599-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - IHabilidadEspecial.cs - Microsoft Visual Studio",
+      "DurationSeconds": 4.996299,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:07:29.6692589-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 28.093408,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:07:57.7626669-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - IHabilidadEspecial.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.0260199,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:07:59.7886868-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - IHabilidadEspecial.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 8.0617142,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:08:07.850401-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - IHabilidadEspecial.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.9959152,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:08:09.8463162-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 55.1756862,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:09:05.0220024-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - IHabilidadEspecial.cs - Microsoft Visual Studio",
+      "DurationSeconds": 13.9968701,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:09:19.0188725-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 28.0919399,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:09:47.1108124-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - IHabilidadEspecial.cs - Microsoft Visual Studio",
+      "DurationSeconds": 4.9974666,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:09:52.108279-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 15.0887892,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:10:07.1970682-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 17.0203669,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:10:24.2174351-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.0056056,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:10:25.2230407-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 54.1656085,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:11:19.3886492-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 4.0128426,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:11:23.4014918-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 6.0303055,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:11:29.4317973-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 21.0904462,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:11:50.5222435-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.0277016,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:11:52.5499451-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 3.0071659,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:11:55.557111-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.0144484,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:11:56.5715594-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 8.9925344,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:12:05.5640938-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 5.0003583,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:12:10.5644521-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 6.9951195,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:12:17.5595716-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 37.1398876,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:12:54.6994592-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 3.0297025,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:12:57.7291617-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 23.1425861,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:13:20.8717478-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 14.0258089,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:13:34.8975567-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 53.1975683,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:14:28.095125-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 7.0047667,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:14:35.0998917-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 1.9998175,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:14:37.0997092-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.0093733,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:14:38.1090825-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 6.0281137,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:14:44.1371962-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 57.286473,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:15:41.4236692-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 15.0484087,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:15:56.4720779-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 13.9973136,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:16:10.4693915-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 5.0367383,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:16:15.5061298-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 2.0130988,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:16:17.5192286-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.997564,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:16:20.5167926-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 19.0832266,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:16:39.6000192-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 6.0312598,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:16:45.631279-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 73.2737279,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:17:58.9050069-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 33.1618299,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:18:32.0668368-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 39.1974302,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:19:11.264267-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 21.0447038,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:19:32.3089708-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 102.5416147,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:21:14.8505855-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 17.1267527,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:21:31.9773382-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 79.4178817,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:22:51.3952199-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 12.0472093,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:23:03.4424292-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 16.0620595,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:23:19.5044887-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.0007991,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:23:21.5052878-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 217.8470366,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:26:59.3523244-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 3.9938627,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:27:03.3461871-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 415.3784992,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:33:58.7246863-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 9.9926895,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:34:08.7173758-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 70.2659477,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:35:18.9833235-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 8.0208826,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:35:27.0042061-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 32.0839002,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:35:59.0881063-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 8.0076884,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:36:07.0957947-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 19.0698319,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:36:26.1656266-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 9.0380639,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:36:35.2036905-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 8.0242819,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:36:43.2279724-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 3.0070613,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:36:46.2350337-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 1.0004227,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:36:47.2354564-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 5.0283472,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:36:52.2638036-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 7.0294109,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:36:59.2932145-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 36.1714245,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:37:35.464639-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 12.0004432,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:37:47.4650822-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 9.0117734,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:37:56.4768556-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 8.9929524,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:38:05.469808-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 7.9959909,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:38:13.4657989-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 16.0537495,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:38:29.5195484-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 8.0394662,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:38:37.5590146-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 131.7368472,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:40:49.2958618-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 3.0302865,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:40:52.3261483-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "Consola de depuración de Microsoft Visual Studio",
+      "DurationSeconds": 5.0381853,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:40:57.3643336-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 17.0902748,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:41:14.4546084-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "Consola de depuración de Microsoft Visual Studio",
+      "DurationSeconds": 5.0371237,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:41:19.4917321-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 102.6119358,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:43:02.1036679-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "Consola de depuración de Microsoft Visual Studio",
+      "DurationSeconds": 1.9913104,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:43:04.0949783-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 23.1012131,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:43:27.1961914-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 10.0179552,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:43:37.2141466-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "Consola de depuración de Microsoft Visual Studio",
+      "DurationSeconds": 2.0040602,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:43:39.2182068-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 17.074661,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:43:56.2928678-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 2.0273117,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:43:58.3201795-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 2.000378,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:44:00.3205575-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "Consola de depuración de Microsoft Visual Studio",
+      "DurationSeconds": 5.0020065,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:44:05.322564-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 16.0253701,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:44:21.3479341-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 114.4198221,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:46:15.7677562-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 1.9939129,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:46:17.7616691-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 18.0835779,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:46:35.845247-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 71.4183425,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:47:47.2635895-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 13.0925492,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:48:00.3561387-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 29.2110019,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:48:29.5671406-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 382.803785,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:54:52.3709256-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.9994921,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:54:54.3704177-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "Windows Terminal",
+      "DurationSeconds": 1.0230864,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:54:55.3935041-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 23.2506022,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:55:18.6441063-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 14.0541801,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:55:32.6982864-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 7.9876102,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:55:40.6858966-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "Visual Studio Debug Console: 056B03C0-21D7-434C-B001-F832022D19AE",
+      "DurationSeconds": 1.0107387,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:55:41.6966353-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 23.136499,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:56:04.8331343-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 12.0082204,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:56:16.8413547-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 45.1569598,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:57:01.9983145-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.0226779,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:57:03.0209924-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 47.3178418,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:57:50.3388342-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 32.1472164,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T10:58:22.4860506-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 113.3552398,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:00:15.8412904-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 10.0546765,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:00:25.8959669-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 131.5307374,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:02:37.4267043-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.0087198,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:02:38.4354241-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 82.545539,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:04:00.9809631-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 10.0592312,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:04:11.0401943-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 151.7818249,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:06:42.8220192-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 43.2831459,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:07:26.1051651-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 7.0253601,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:07:33.1305252-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 60.3045785,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:08:33.4351037-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 4.0189088,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:08:37.4540125-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 113.4787722,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:10:30.9327847-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.000908,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:10:31.9336927-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 29.2144574,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:11:01.1481501-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 31.0251494,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:11:32.1732995-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 282.1389288,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:16:14.3122283-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "Microsoft Visual Studio",
+      "DurationSeconds": 0.9987876,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:16:15.3110159-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 22.0636819,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:16:37.3746978-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 7.0563415,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:16:44.4310393-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "Microsoft Visual Studio",
+      "DurationSeconds": 2.0131473,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:16:46.4441866-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 10.0077008,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:16:56.4518874-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 4.0154255,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:17:00.4673129-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 10.0474074,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:17:10.5147203-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 11.0179192,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:17:21.5326395-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 47.0909244,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:18:08.6235639-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 15.0917396,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:18:23.7153035-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 11.0551472,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:18:34.7704507-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 61.2466464,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:19:36.0170971-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 0.9956273,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:19:37.0127244-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 7.0493086,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:19:44.062033-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 23.0935814,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:20:07.1556144-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 3.0024368,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:20:10.1580512-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.0165158,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:20:11.174567-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "Consola de depuración de Microsoft Visual Studio",
+      "DurationSeconds": 1.9938265,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:20:13.1683935-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 4.0304458,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:20:17.1988393-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 19.0752357,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:20:36.274075-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 2.9961326,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:20:39.2702076-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "Consola de depuración de Microsoft Visual Studio",
+      "DurationSeconds": 2.0094378,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:20:41.2796454-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 9.0140426,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:20:50.293688-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 5.0151644,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:20:55.3088524-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 33.1281188,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:21:28.4369712-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 113.4186606,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:23:21.8556318-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 1.0069157,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:23:22.8625475-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 21.0536685,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:23:43.916216-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 20.0834464,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:24:03.9996624-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 12.020569,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:24:16.0202314-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 7.0113275,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:24:23.0315589-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 7.0333265,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:24:30.0648854-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 8.0464618,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:24:38.1113472-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 117.6045091,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:26:35.7158563-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - IHabilidadEspecial.cs - Microsoft Visual Studio",
+      "DurationSeconds": 3.9986195,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:26:39.7144758-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 117.5129023,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:28:37.2273781-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 10.0948444,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:28:47.3222225-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 4.0063178,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:28:51.3285403-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 3.99879,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:28:55.3273303-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 102.3760352,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:30:37.7033655-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "GitHub Copilot",
+      "DurationSeconds": 2.0185017,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:30:39.7218672-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 342.052856,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:36:21.7747232-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 0.9940066,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:36:22.7687298-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 67.4344016,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:37:30.2031314-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 0.9994906,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:37:31.202622-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 147.4181646,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:39:58.6207866-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 38.1497479,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:40:36.7705345-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 134.5491468,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:42:51.3196813-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 15.0300135,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:43:06.3496948-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 17.0253186,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:43:23.3750134-05:00",
+      "ProcessName": "WindowsTerminal",
+      "WindowTitle": "C:\\Users\\sena\\Documents\\evaluacion_robert\\evaluacion_robert\\bin\\Debug\\evaluacion_robert.exe",
+      "DurationSeconds": 65.3852429,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:44:28.7602563-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 6.0343356,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:44:34.7945919-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 15.0523925,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:44:49.8469844-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 121.5010389,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:46:51.3480233-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 325.3145953,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:52:16.6626186-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 6.0315283,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:52:22.6941469-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Ejercicio.cs - Microsoft Visual Studio",
+      "DurationSeconds": 0.9899121,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:52:23.684059-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 71.4479445,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:53:35.1320035-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 20.0968119,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:53:55.2288154-05:00",
+      "ProcessName": "SearchHost",
+      "WindowTitle": "Buscar",
+      "DurationSeconds": 8.0276832,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:54:03.2564986-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Documento1 - Word",
+      "DurationSeconds": 4.008076,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:54:07.2645746-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 12.0499077,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:54:19.3144823-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 9.0126041,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:54:28.3270864-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 8.0192532,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:54:36.3463396-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Documento1 - Word",
+      "DurationSeconds": 45.1269537,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:21.4732933-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Google Drive - Advertencia de análisis de virus - Google Chrome",
+      "DurationSeconds": 2.0194053,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:23.4926986-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Nueva pestaña - Google Chrome",
+      "DurationSeconds": 4.0277888,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:27.5204874-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub - Google Chrome",
+      "DurationSeconds": 6.0330054,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:33.5534928-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Inbox (40) - zatoshirober@gmail.com - Gmail - Google Chrome",
+      "DurationSeconds": 2.0032338,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:35.5567266-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub - Google Chrome",
+      "DurationSeconds": 1.0016072,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:36.5583338-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Sign in to GitHub · GitHub - Google Chrome",
+      "DurationSeconds": 3.0114511,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:39.5697849-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Inicia sesión: Cuentas de Google - Google Chrome",
+      "DurationSeconds": 4.0093232,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:43.5791081-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "GitHub - Google Chrome",
+      "DurationSeconds": 9.0850381,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:52.6641462-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Documento1 - Word",
+      "DurationSeconds": 1.006019,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:53.6701652-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 2.0209052,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:55.6910704-05:00",
+      "ProcessName": "ExamProctor",
+      "WindowTitle": "Supervisión de Evaluación",
+      "DurationSeconds": 13.1271864,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:56:08.8182568-05:00",
+      "ProcessName": "SearchHost",
+      "WindowTitle": "Buscar",
+      "DurationSeconds": 10.0195307,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:56:18.8377875-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "",
+      "DurationSeconds": 0.9975301,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:56:19.8353176-05:00",
+      "ProcessName": "GitHubDesktop",
+      "WindowTitle": "GitHub Desktop",
+      "DurationSeconds": 103.6322274,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:03.467545-05:00",
+      "ProcessName": "msedge",
+      "WindowTitle": "Sin título - Escuela: Microsoft​ Edge",
+      "DurationSeconds": 1.9972855,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:05.4648305-05:00",
+      "ProcessName": "msedge",
+      "WindowTitle": "Verify Session - Escuela: Microsoft​ Edge",
+      "DurationSeconds": 1.0020659,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:06.4668964-05:00",
+      "ProcessName": "GitHubDesktop",
+      "WindowTitle": "GitHub Desktop",
+      "DurationSeconds": 17.1874354,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:23.6543318-05:00",
+      "ProcessName": "msedge",
+      "WindowTitle": "Sin título y 1 página más - Escuela: Microsoft​ Edge",
+      "DurationSeconds": 1.0136096,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:24.6679414-05:00",
+      "ProcessName": "msedge",
+      "WindowTitle": "Verify Session y 1 página más - Escuela: Microsoft​ Edge",
+      "DurationSeconds": 2.0146814,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:26.6826228-05:00",
+      "ProcessName": "GitHubDesktop",
+      "WindowTitle": "GitHub Desktop",
+      "DurationSeconds": 13.0456754,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:39.7282982-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "GitHub - Google Chrome",
+      "DurationSeconds": 6.0392315,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:45.7675297-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Your Repositories - Google Chrome",
+      "DurationSeconds": 5.078659,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:50.8461887-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Zatoshi-rober/REpositorio_Robert - Google Chrome",
+      "DurationSeconds": 3.0314167,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:53.8776054-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Branches · Zatoshi-rober/REpositorio_Robert - Google Chrome",
+      "DurationSeconds": 6.0192255,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:59.8968309-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Zatoshi-rober/REpositorio_Robert at Evaluacion - Google Chrome",
+      "DurationSeconds": 2.0039356,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:01.9007665-05:00",
+      "ProcessName": "GitHubDesktop",
+      "WindowTitle": "GitHub Desktop",
+      "DurationSeconds": 16.111328,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:18.0120945-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "REpositorio_Robert - Explorador de archivos",
+      "DurationSeconds": 17.0909594,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:35.1030539-05:00",
+      "ProcessName": "GitHubDesktop",
+      "WindowTitle": "GitHub Desktop",
+      "DurationSeconds": 8.0417109,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:43.1447648-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "REpositorio_Robert - Explorador de archivos",
+      "DurationSeconds": 5.9972876,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:49.1420524-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "Repositorios - Explorador de archivos",
+      "DurationSeconds": 0.9981509,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:50.1402033-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "REpositorio_Robert - Explorador de archivos",
+      "DurationSeconds": 5.0147074,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:55.1549107-05:00",
+      "ProcessName": "GitHubDesktop",
+      "WindowTitle": "GitHub Desktop",
+      "DurationSeconds": 9.0425305,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:00:04.1974412-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Documento1 - Word",
+      "DurationSeconds": 2.0142699,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:00:06.2117111-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Aventurero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 1.9991345,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:00:08.2108456-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 4.9908716,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:00:13.2017172-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 4.0195574,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:00:17.2212746-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Documento1 - Word",
+      "DurationSeconds": 43.2479243,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:00.4691989-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Guerrero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 0.9999445,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:01.4691434-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs - Microsoft Visual Studio",
+      "DurationSeconds": 7.0294962,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:08.4986396-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 4.0233847,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:12.5220243-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Documento1 - Word",
+      "DurationSeconds": 20.1232936,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:32.6453179-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 1.0023972,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:33.6477151-05:00",
+      "ProcessName": "GitHubDesktop",
+      "WindowTitle": "GitHub Desktop",
+      "DurationSeconds": 1.9934152,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:35.6411303-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Mago.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 2.004014,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:37.6451443-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs - Microsoft Visual Studio",
+      "DurationSeconds": 5.0061687,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:42.651313-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 4.9926401,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:47.6439531-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Documento1 - Word",
+      "DurationSeconds": 14.0143472,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:02:01.6583003-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Arquero.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 8.0295903,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:02:09.6878906-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - IHabilidadEspecial.cs - Microsoft Visual Studio",
+      "DurationSeconds": 6.0262557,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:02:15.7141463-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - IHabilidadEspecial.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 4.0151985,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:02:19.7293448-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Documento1 - Word",
+      "DurationSeconds": 34.2046609,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:02:53.9340057-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - IHabilidadEspecial.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 0.9999157,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:02:54.9339214-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs - Microsoft Visual Studio",
+      "DurationSeconds": 6.0100063,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:03:00.9439277-05:00",
+      "ProcessName": "devenv",
+      "WindowTitle": "evaluacion_robert - Program.cs* - Microsoft Visual Studio",
+      "DurationSeconds": 9.9906172,
+      "Allowed": true,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:03:10.9345449-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Documento1 - Word",
+      "DurationSeconds": 38.052113,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:03:48.9866579-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Guardar como",
+      "DurationSeconds": 22.1353973,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:11.1220552-05:00",
+      "ProcessName": "GitHubDesktop",
+      "WindowTitle": "GitHub Desktop",
+      "DurationSeconds": 6.058146,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:17.1802012-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Guardar como",
+      "DurationSeconds": 21.1187251,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:38.2989263-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Agregar etiqueta de confidencialidad",
+      "DurationSeconds": 2.0162356,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:40.3151619-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "",
+      "DurationSeconds": 2.001404,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:42.3165659-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Agregar etiqueta de confidencialidad",
+      "DurationSeconds": 1.0030271,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:43.319593-05:00",
+      "ProcessName": "WINWORD",
+      "WindowTitle": "Evaluacion - Word",
+      "DurationSeconds": 2.0175587,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:45.3371517-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Zatoshi-rober/REpositorio_Robert at Evaluacion - Google Chrome",
+      "DurationSeconds": 23.13732,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:08.4744717-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Your Repositories - Google Chrome",
+      "DurationSeconds": 2.9966738,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:11.4711455-05:00",
+      "ProcessName": "chrome",
+      "WindowTitle": "Zatoshi-rober/REpositorio_Robert - Google Chrome",
+      "DurationSeconds": 9.0494425,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:20.520588-05:00",
+      "ProcessName": "GitHubDesktop",
+      "WindowTitle": "GitHub Desktop",
+      "DurationSeconds": 29.2070595,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:49.7276475-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "",
+      "DurationSeconds": 0.9908975,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:50.718545-05:00",
+      "ProcessName": "GitHubDesktop",
+      "WindowTitle": "GitHub Desktop",
+      "DurationSeconds": 2.0084908,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:52.7270358-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "Conmutación de tareas",
+      "DurationSeconds": 2.0136413,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:54.7406771-05:00",
+      "ProcessName": "GitHubDesktop",
+      "WindowTitle": "GitHub Desktop",
+      "DurationSeconds": 0.9895968,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:55.7302739-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "REpositorio_Robert - Explorador de archivos",
+      "DurationSeconds": 4.0524539,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:59.7827278-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "Conmutación de tareas",
+      "DurationSeconds": 4.0115253,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:06:03.7942531-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "Ejecutar - Explorador de archivos",
+      "DurationSeconds": 3.0166816,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:06:06.8109347-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "REpositorio_Robert - Explorador de archivos",
+      "DurationSeconds": 12.0702146,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:06:18.8811493-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "resultados - Explorador de archivos",
+      "DurationSeconds": 1.0003944,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:06:19.8815437-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "evaluacion_20260701_093808 - Explorador de archivos",
+      "DurationSeconds": 3.999742,
+      "Allowed": false,
+      "Ongoing": false
+    },
+    {
+      "Timestamp": "2026-07-01T12:06:23.8812857-05:00",
+      "ProcessName": "explorer",
+      "WindowTitle": "REpositorio_Robert - Explorador de archivos",
+      "DurationSeconds": 0.0661792,
+      "Allowed": false,
+      "Ongoing": true
+    }
+  ],
+  "AppUsage": [
+    {
+      "ProcessName": "devenv",
+      "TotalSeconds": 7770.1726992,
+      "ActivationCount": 252,
+      "Allowed": true
+    },
+    {
+      "ProcessName": "WindowsTerminal",
+      "TotalSeconds": 478.0022241,
+      "ActivationCount": 24,
+      "Allowed": true
+    },
+    {
+      "ProcessName": "WINWORD",
+      "TotalSeconds": 252.09000539999997,
+      "ActivationCount": 15,
+      "Allowed": false
+    },
+    {
+      "ProcessName": "GitHubDesktop",
+      "TotalSeconds": 207.3176159,
+      "ActivationCount": 11,
+      "Allowed": false
+    },
+    {
+      "ProcessName": "chrome",
+      "TotalSeconds": 88.5467575,
+      "ActivationCount": 16,
+      "Allowed": false
+    },
+    {
+      "ProcessName": "explorer",
+      "TotalSeconds": 61.3203652,
+      "ActivationCount": 14,
+      "Allowed": false
+    },
+    {
+      "ProcessName": "SearchHost",
+      "TotalSeconds": 18.047213900000003,
+      "ActivationCount": 2,
+      "Allowed": false
+    },
+    {
+      "ProcessName": "ExamProctor",
+      "TotalSeconds": 14.1865749,
+      "ActivationCount": 2,
+      "Allowed": true
+    },
+    {
+      "ProcessName": "msedge",
+      "TotalSeconds": 6.027642400000001,
+      "ActivationCount": 4,
+      "Allowed": false
+    }
+  ],
+  "Screenshots": [
+    {
+      "Timestamp": "2026-07-01T09:38:08.2364647-05:00",
+      "FileName": "screenshots/shot_20260701_093808_236.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:39:08.3178792-05:00",
+      "FileName": "screenshots/shot_20260701_093908_317.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:40:08.322187-05:00",
+      "FileName": "screenshots/shot_20260701_094008_322.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:41:08.3501686-05:00",
+      "FileName": "screenshots/shot_20260701_094108_350.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:42:08.3425627-05:00",
+      "FileName": "screenshots/shot_20260701_094208_342.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:43:08.3530369-05:00",
+      "FileName": "screenshots/shot_20260701_094308_353.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:44:08.3555302-05:00",
+      "FileName": "screenshots/shot_20260701_094408_355.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:45:08.3530402-05:00",
+      "FileName": "screenshots/shot_20260701_094508_353.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:46:08.3550027-05:00",
+      "FileName": "screenshots/shot_20260701_094608_355.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:47:08.3659775-05:00",
+      "FileName": "screenshots/shot_20260701_094708_365.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:48:08.3548745-05:00",
+      "FileName": "screenshots/shot_20260701_094808_354.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:49:08.3610551-05:00",
+      "FileName": "screenshots/shot_20260701_094908_361.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:50:08.3665623-05:00",
+      "FileName": "screenshots/shot_20260701_095008_366.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:51:08.3732412-05:00",
+      "FileName": "screenshots/shot_20260701_095108_373.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:52:08.3938736-05:00",
+      "FileName": "screenshots/shot_20260701_095208_393.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:53:08.3877882-05:00",
+      "FileName": "screenshots/shot_20260701_095308_387.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:54:08.3863658-05:00",
+      "FileName": "screenshots/shot_20260701_095408_386.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:55:08.3872251-05:00",
+      "FileName": "screenshots/shot_20260701_095508_387.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:56:08.3952866-05:00",
+      "FileName": "screenshots/shot_20260701_095608_395.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:57:08.3923061-05:00",
+      "FileName": "screenshots/shot_20260701_095708_392.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:58:08.4024471-05:00",
+      "FileName": "screenshots/shot_20260701_095808_402.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T09:59:08.4156275-05:00",
+      "FileName": "screenshots/shot_20260701_095908_415.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:00:08.4222527-05:00",
+      "FileName": "screenshots/shot_20260701_100008_422.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:01:08.43114-05:00",
+      "FileName": "screenshots/shot_20260701_100108_431.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:02:08.4217513-05:00",
+      "FileName": "screenshots/shot_20260701_100208_421.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:03:08.4446738-05:00",
+      "FileName": "screenshots/shot_20260701_100308_444.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:04:08.4374715-05:00",
+      "FileName": "screenshots/shot_20260701_100408_437.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:05:08.4404766-05:00",
+      "FileName": "screenshots/shot_20260701_100508_440.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:06:08.4350246-05:00",
+      "FileName": "screenshots/shot_20260701_100608_435.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:07:08.4352345-05:00",
+      "FileName": "screenshots/shot_20260701_100708_435.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:08:08.4366499-05:00",
+      "FileName": "screenshots/shot_20260701_100808_436.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:09:08.4426955-05:00",
+      "FileName": "screenshots/shot_20260701_100908_442.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:10:08.4424469-05:00",
+      "FileName": "screenshots/shot_20260701_101008_442.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:11:08.449289-05:00",
+      "FileName": "screenshots/shot_20260701_101108_449.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:12:08.4688252-05:00",
+      "FileName": "screenshots/shot_20260701_101208_468.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:13:08.4899493-05:00",
+      "FileName": "screenshots/shot_20260701_101308_489.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:14:08.4901983-05:00",
+      "FileName": "screenshots/shot_20260701_101408_490.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:15:08.4852077-05:00",
+      "FileName": "screenshots/shot_20260701_101508_485.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:16:08.4878561-05:00",
+      "FileName": "screenshots/shot_20260701_101608_487.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:17:08.4883052-05:00",
+      "FileName": "screenshots/shot_20260701_101708_488.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:18:08.4929771-05:00",
+      "FileName": "screenshots/shot_20260701_101808_492.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:19:08.5004456-05:00",
+      "FileName": "screenshots/shot_20260701_101908_500.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:20:08.4992595-05:00",
+      "FileName": "screenshots/shot_20260701_102008_499.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:21:08.497634-05:00",
+      "FileName": "screenshots/shot_20260701_102108_497.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:22:08.5108416-05:00",
+      "FileName": "screenshots/shot_20260701_102208_510.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:23:08.5150078-05:00",
+      "FileName": "screenshots/shot_20260701_102308_515.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:24:08.5147038-05:00",
+      "FileName": "screenshots/shot_20260701_102408_514.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:25:08.5175336-05:00",
+      "FileName": "screenshots/shot_20260701_102508_517.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:26:08.5253952-05:00",
+      "FileName": "screenshots/shot_20260701_102608_525.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:27:08.532336-05:00",
+      "FileName": "screenshots/shot_20260701_102708_532.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:28:08.5446636-05:00",
+      "FileName": "screenshots/shot_20260701_102808_544.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:29:08.5557077-05:00",
+      "FileName": "screenshots/shot_20260701_102908_555.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:30:08.5565596-05:00",
+      "FileName": "screenshots/shot_20260701_103008_556.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:31:08.562097-05:00",
+      "FileName": "screenshots/shot_20260701_103108_562.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:32:08.5708817-05:00",
+      "FileName": "screenshots/shot_20260701_103208_570.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:33:08.5586737-05:00",
+      "FileName": "screenshots/shot_20260701_103308_558.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:34:08.5598046-05:00",
+      "FileName": "screenshots/shot_20260701_103408_559.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:35:08.5582415-05:00",
+      "FileName": "screenshots/shot_20260701_103508_558.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:36:08.5672217-05:00",
+      "FileName": "screenshots/shot_20260701_103608_567.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:37:08.5869247-05:00",
+      "FileName": "screenshots/shot_20260701_103708_586.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:38:08.5908752-05:00",
+      "FileName": "screenshots/shot_20260701_103808_590.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:39:08.5955394-05:00",
+      "FileName": "screenshots/shot_20260701_103908_595.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:40:08.6008617-05:00",
+      "FileName": "screenshots/shot_20260701_104008_600.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:41:08.6006067-05:00",
+      "FileName": "screenshots/shot_20260701_104108_600.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:42:08.5962517-05:00",
+      "FileName": "screenshots/shot_20260701_104208_596.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:43:08.5883998-05:00",
+      "FileName": "screenshots/shot_20260701_104308_588.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:44:08.5892782-05:00",
+      "FileName": "screenshots/shot_20260701_104408_589.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:45:08.5900725-05:00",
+      "FileName": "screenshots/shot_20260701_104508_590.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:46:08.6012988-05:00",
+      "FileName": "screenshots/shot_20260701_104608_601.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:47:08.6001448-05:00",
+      "FileName": "screenshots/shot_20260701_104708_600.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:48:08.5924966-05:00",
+      "FileName": "screenshots/shot_20260701_104808_592.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:49:08.5922431-05:00",
+      "FileName": "screenshots/shot_20260701_104908_592.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:50:08.6015851-05:00",
+      "FileName": "screenshots/shot_20260701_105008_601.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:51:08.6133734-05:00",
+      "FileName": "screenshots/shot_20260701_105108_613.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:52:08.6202242-05:00",
+      "FileName": "screenshots/shot_20260701_105208_620.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:53:08.6324649-05:00",
+      "FileName": "screenshots/shot_20260701_105308_632.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:54:08.6427999-05:00",
+      "FileName": "screenshots/shot_20260701_105408_642.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:55:08.6440064-05:00",
+      "FileName": "screenshots/shot_20260701_105508_644.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:56:08.639842-05:00",
+      "FileName": "screenshots/shot_20260701_105608_639.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:57:08.6551886-05:00",
+      "FileName": "screenshots/shot_20260701_105708_655.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:58:08.6619461-05:00",
+      "FileName": "screenshots/shot_20260701_105808_661.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T10:59:08.6527461-05:00",
+      "FileName": "screenshots/shot_20260701_105908_652.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:00:08.6625347-05:00",
+      "FileName": "screenshots/shot_20260701_110008_662.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:01:08.670437-05:00",
+      "FileName": "screenshots/shot_20260701_110108_670.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:02:08.6828339-05:00",
+      "FileName": "screenshots/shot_20260701_110208_682.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:03:08.6860592-05:00",
+      "FileName": "screenshots/shot_20260701_110308_686.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:04:08.6825192-05:00",
+      "FileName": "screenshots/shot_20260701_110408_682.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:05:08.6892032-05:00",
+      "FileName": "screenshots/shot_20260701_110508_689.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:06:08.6889447-05:00",
+      "FileName": "screenshots/shot_20260701_110608_688.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:07:08.7063453-05:00",
+      "FileName": "screenshots/shot_20260701_110708_706.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:08:08.6989949-05:00",
+      "FileName": "screenshots/shot_20260701_110808_698.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:09:08.7245842-05:00",
+      "FileName": "screenshots/shot_20260701_110908_724.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:10:08.7293315-05:00",
+      "FileName": "screenshots/shot_20260701_111008_729.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:11:08.7441466-05:00",
+      "FileName": "screenshots/shot_20260701_111108_744.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:12:08.7478984-05:00",
+      "FileName": "screenshots/shot_20260701_111208_747.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:13:08.7498046-05:00",
+      "FileName": "screenshots/shot_20260701_111308_749.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:14:08.7467388-05:00",
+      "FileName": "screenshots/shot_20260701_111408_746.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:15:08.7695137-05:00",
+      "FileName": "screenshots/shot_20260701_111508_769.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:16:08.7843279-05:00",
+      "FileName": "screenshots/shot_20260701_111608_784.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:17:08.8005533-05:00",
+      "FileName": "screenshots/shot_20260701_111708_800.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:18:08.7929169-05:00",
+      "FileName": "screenshots/shot_20260701_111808_792.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:19:08.8076447-05:00",
+      "FileName": "screenshots/shot_20260701_111908_807.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:20:08.8086879-05:00",
+      "FileName": "screenshots/shot_20260701_112008_808.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:21:08.8118423-05:00",
+      "FileName": "screenshots/shot_20260701_112108_811.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:22:08.8094509-05:00",
+      "FileName": "screenshots/shot_20260701_112208_809.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:23:08.8101548-05:00",
+      "FileName": "screenshots/shot_20260701_112308_810.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:24:08.8140188-05:00",
+      "FileName": "screenshots/shot_20260701_112408_814.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:25:08.8059825-05:00",
+      "FileName": "screenshots/shot_20260701_112508_805.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:26:08.8180282-05:00",
+      "FileName": "screenshots/shot_20260701_112608_818.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:27:08.8229693-05:00",
+      "FileName": "screenshots/shot_20260701_112708_822.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:28:08.8272932-05:00",
+      "FileName": "screenshots/shot_20260701_112808_827.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:29:08.8216657-05:00",
+      "FileName": "screenshots/shot_20260701_112908_821.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:30:08.8366382-05:00",
+      "FileName": "screenshots/shot_20260701_113008_836.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:31:08.8251158-05:00",
+      "FileName": "screenshots/shot_20260701_113108_825.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:32:08.8328239-05:00",
+      "FileName": "screenshots/shot_20260701_113208_832.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:33:08.836599-05:00",
+      "FileName": "screenshots/shot_20260701_113308_836.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:34:08.82365-05:00",
+      "FileName": "screenshots/shot_20260701_113408_823.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:35:08.8326763-05:00",
+      "FileName": "screenshots/shot_20260701_113508_832.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:36:08.8298081-05:00",
+      "FileName": "screenshots/shot_20260701_113608_829.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:37:08.8273688-05:00",
+      "FileName": "screenshots/shot_20260701_113708_827.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:38:08.8322224-05:00",
+      "FileName": "screenshots/shot_20260701_113808_832.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:39:08.8474551-05:00",
+      "FileName": "screenshots/shot_20260701_113908_847.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:40:08.8402457-05:00",
+      "FileName": "screenshots/shot_20260701_114008_840.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:41:08.8502115-05:00",
+      "FileName": "screenshots/shot_20260701_114108_850.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:42:08.8392771-05:00",
+      "FileName": "screenshots/shot_20260701_114208_839.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:43:08.8441933-05:00",
+      "FileName": "screenshots/shot_20260701_114308_844.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:44:08.8460845-05:00",
+      "FileName": "screenshots/shot_20260701_114408_846.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:45:08.853481-05:00",
+      "FileName": "screenshots/shot_20260701_114508_853.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:46:08.8674439-05:00",
+      "FileName": "screenshots/shot_20260701_114608_867.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:47:08.8620857-05:00",
+      "FileName": "screenshots/shot_20260701_114708_862.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:48:08.8755986-05:00",
+      "FileName": "screenshots/shot_20260701_114808_875.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:49:08.8846267-05:00",
+      "FileName": "screenshots/shot_20260701_114908_884.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:50:08.8973485-05:00",
+      "FileName": "screenshots/shot_20260701_115008_897.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:51:08.9063438-05:00",
+      "FileName": "screenshots/shot_20260701_115108_906.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:52:08.906712-05:00",
+      "FileName": "screenshots/shot_20260701_115208_906.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:53:08.9036885-05:00",
+      "FileName": "screenshots/shot_20260701_115308_903.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:53:55.2442805-05:00",
+      "FileName": "screenshots/shot_20260701_115355_244.jpg",
+      "Reason": "Cambio a app no permitida: SearchHost — Buscar"
+    },
+    {
+      "Timestamp": "2026-07-01T11:54:03.278948-05:00",
+      "FileName": "screenshots/shot_20260701_115403_278.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Documento1 - Word"
+    },
+    {
+      "Timestamp": "2026-07-01T11:54:08.9112725-05:00",
+      "FileName": "screenshots/shot_20260701_115408_911.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:54:36.358096-05:00",
+      "FileName": "screenshots/shot_20260701_115436_358.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Documento1 - Word"
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:08.9141721-05:00",
+      "FileName": "screenshots/shot_20260701_115508_914.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:21.4949062-05:00",
+      "FileName": "screenshots/shot_20260701_115521_494.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Google Drive - Advertencia de análisis de virus - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:23.5123676-05:00",
+      "FileName": "screenshots/shot_20260701_115523_512.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Nueva pestaña - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:27.5442681-05:00",
+      "FileName": "screenshots/shot_20260701_115527_544.jpg",
+      "Reason": "Cambio a app no permitida: chrome — GitHub · Change is constant. GitHub keeps you ahead. · GitHub - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:33.5712861-05:00",
+      "FileName": "screenshots/shot_20260701_115533_571.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Inbox (40) - zatoshirober@gmail.com - Gmail - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:35.5706486-05:00",
+      "FileName": "screenshots/shot_20260701_115535_570.jpg",
+      "Reason": "Cambio a app no permitida: chrome — GitHub · Change is constant. GitHub keeps you ahead. · GitHub - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:36.5711332-05:00",
+      "FileName": "screenshots/shot_20260701_115536_571.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Sign in to GitHub · GitHub - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:39.588104-05:00",
+      "FileName": "screenshots/shot_20260701_115539_588.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Inicia sesión: Cuentas de Google - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:43.5968241-05:00",
+      "FileName": "screenshots/shot_20260701_115543_596.jpg",
+      "Reason": "Cambio a app no permitida: chrome — GitHub - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:55:52.6873375-05:00",
+      "FileName": "screenshots/shot_20260701_115552_687.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Documento1 - Word"
+    },
+    {
+      "Timestamp": "2026-07-01T11:56:08.8254522-05:00",
+      "FileName": "screenshots/shot_20260701_115608_825.jpg",
+      "Reason": "Cambio a app no permitida: SearchHost — Buscar"
+    },
+    {
+      "Timestamp": "2026-07-01T11:56:08.9243598-05:00",
+      "FileName": "screenshots/shot_20260701_115608_924.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:56:18.8473314-05:00",
+      "FileName": "screenshots/shot_20260701_115618_847.jpg",
+      "Reason": "Cambio a app no permitida: explorer — "
+    },
+    {
+      "Timestamp": "2026-07-01T11:56:19.8445945-05:00",
+      "FileName": "screenshots/shot_20260701_115619_844.jpg",
+      "Reason": "Cambio a app no permitida: GitHubDesktop — GitHub Desktop"
+    },
+    {
+      "Timestamp": "2026-07-01T11:57:08.9367381-05:00",
+      "FileName": "screenshots/shot_20260701_115708_936.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:03.4905793-05:00",
+      "FileName": "screenshots/shot_20260701_115803_490.jpg",
+      "Reason": "Cambio a app no permitida: msedge — Sin título - Escuela: Microsoft​ Edge"
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:05.4801378-05:00",
+      "FileName": "screenshots/shot_20260701_115805_480.jpg",
+      "Reason": "Cambio a app no permitida: msedge — Verify Session - Escuela: Microsoft​ Edge"
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:06.4884806-05:00",
+      "FileName": "screenshots/shot_20260701_115806_488.jpg",
+      "Reason": "Cambio a app no permitida: GitHubDesktop — GitHub Desktop"
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:08.9422658-05:00",
+      "FileName": "screenshots/shot_20260701_115808_942.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:23.6731195-05:00",
+      "FileName": "screenshots/shot_20260701_115823_673.jpg",
+      "Reason": "Cambio a app no permitida: msedge — Sin título y 1 página más - Escuela: Microsoft​ Edge"
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:24.6871776-05:00",
+      "FileName": "screenshots/shot_20260701_115824_687.jpg",
+      "Reason": "Cambio a app no permitida: msedge — Verify Session y 1 página más - Escuela: Microsoft​ Edge"
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:26.7049109-05:00",
+      "FileName": "screenshots/shot_20260701_115826_704.jpg",
+      "Reason": "Cambio a app no permitida: GitHubDesktop — GitHub Desktop"
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:39.7501887-05:00",
+      "FileName": "screenshots/shot_20260701_115839_750.jpg",
+      "Reason": "Cambio a app no permitida: chrome — GitHub - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:45.7801727-05:00",
+      "FileName": "screenshots/shot_20260701_115845_780.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Your Repositories - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:50.8650513-05:00",
+      "FileName": "screenshots/shot_20260701_115850_865.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Zatoshi-rober/REpositorio_Robert - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:53.9102026-05:00",
+      "FileName": "screenshots/shot_20260701_115853_910.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Branches · Zatoshi-rober/REpositorio_Robert - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:58:59.9170571-05:00",
+      "FileName": "screenshots/shot_20260701_115859_917.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Zatoshi-rober/REpositorio_Robert at Evaluacion - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:01.926079-05:00",
+      "FileName": "screenshots/shot_20260701_115901_926.jpg",
+      "Reason": "Cambio a app no permitida: GitHubDesktop — GitHub Desktop"
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:08.9366671-05:00",
+      "FileName": "screenshots/shot_20260701_115908_936.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:18.0239104-05:00",
+      "FileName": "screenshots/shot_20260701_115918_023.jpg",
+      "Reason": "Cambio a app no permitida: explorer — REpositorio_Robert - Explorador de archivos"
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:35.1218327-05:00",
+      "FileName": "screenshots/shot_20260701_115935_121.jpg",
+      "Reason": "Cambio a app no permitida: GitHubDesktop — GitHub Desktop"
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:43.1598005-05:00",
+      "FileName": "screenshots/shot_20260701_115943_159.jpg",
+      "Reason": "Cambio a app no permitida: explorer — REpositorio_Robert - Explorador de archivos"
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:49.1643884-05:00",
+      "FileName": "screenshots/shot_20260701_115949_164.jpg",
+      "Reason": "Cambio a app no permitida: explorer — Repositorios - Explorador de archivos"
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:50.1600488-05:00",
+      "FileName": "screenshots/shot_20260701_115950_160.jpg",
+      "Reason": "Cambio a app no permitida: explorer — REpositorio_Robert - Explorador de archivos"
+    },
+    {
+      "Timestamp": "2026-07-01T11:59:55.1747734-05:00",
+      "FileName": "screenshots/shot_20260701_115955_174.jpg",
+      "Reason": "Cambio a app no permitida: GitHubDesktop — GitHub Desktop"
+    },
+    {
+      "Timestamp": "2026-07-01T12:00:04.2176548-05:00",
+      "FileName": "screenshots/shot_20260701_120004_217.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Documento1 - Word"
+    },
+    {
+      "Timestamp": "2026-07-01T12:00:08.9407523-05:00",
+      "FileName": "screenshots/shot_20260701_120008_940.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T12:00:17.2349476-05:00",
+      "FileName": "screenshots/shot_20260701_120017_234.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Documento1 - Word"
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:08.9332395-05:00",
+      "FileName": "screenshots/shot_20260701_120108_933.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:12.5360163-05:00",
+      "FileName": "screenshots/shot_20260701_120112_536.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Documento1 - Word"
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:33.6562571-05:00",
+      "FileName": "screenshots/shot_20260701_120133_656.jpg",
+      "Reason": "Cambio a app no permitida: GitHubDesktop — GitHub Desktop"
+    },
+    {
+      "Timestamp": "2026-07-01T12:01:47.6573055-05:00",
+      "FileName": "screenshots/shot_20260701_120147_657.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Documento1 - Word"
+    },
+    {
+      "Timestamp": "2026-07-01T12:02:08.9490483-05:00",
+      "FileName": "screenshots/shot_20260701_120208_949.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T12:02:19.7442604-05:00",
+      "FileName": "screenshots/shot_20260701_120219_744.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Documento1 - Word"
+    },
+    {
+      "Timestamp": "2026-07-01T12:03:08.9546537-05:00",
+      "FileName": "screenshots/shot_20260701_120308_954.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T12:03:10.9447876-05:00",
+      "FileName": "screenshots/shot_20260701_120310_944.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Documento1 - Word"
+    },
+    {
+      "Timestamp": "2026-07-01T12:03:49.0066599-05:00",
+      "FileName": "screenshots/shot_20260701_120349_006.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Guardar como"
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:08.9518075-05:00",
+      "FileName": "screenshots/shot_20260701_120408_951.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:11.1409062-05:00",
+      "FileName": "screenshots/shot_20260701_120411_140.jpg",
+      "Reason": "Cambio a app no permitida: GitHubDesktop — GitHub Desktop"
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:17.2008114-05:00",
+      "FileName": "screenshots/shot_20260701_120417_200.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Guardar como"
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:38.3166251-05:00",
+      "FileName": "screenshots/shot_20260701_120438_316.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Agregar etiqueta de confidencialidad"
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:40.332525-05:00",
+      "FileName": "screenshots/shot_20260701_120440_332.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — "
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:42.3376445-05:00",
+      "FileName": "screenshots/shot_20260701_120442_337.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Agregar etiqueta de confidencialidad"
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:43.3497287-05:00",
+      "FileName": "screenshots/shot_20260701_120443_349.jpg",
+      "Reason": "Cambio a app no permitida: WINWORD — Evaluacion - Word"
+    },
+    {
+      "Timestamp": "2026-07-01T12:04:45.3564348-05:00",
+      "FileName": "screenshots/shot_20260701_120445_356.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Zatoshi-rober/REpositorio_Robert at Evaluacion - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:08.4956633-05:00",
+      "FileName": "screenshots/shot_20260701_120508_495.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Your Repositories - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:08.9609299-05:00",
+      "FileName": "screenshots/shot_20260701_120508_960.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:11.4864672-05:00",
+      "FileName": "screenshots/shot_20260701_120511_486.jpg",
+      "Reason": "Cambio a app no permitida: chrome — Zatoshi-rober/REpositorio_Robert - Google Chrome"
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:20.5342484-05:00",
+      "FileName": "screenshots/shot_20260701_120520_534.jpg",
+      "Reason": "Cambio a app no permitida: GitHubDesktop — GitHub Desktop"
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:49.7551117-05:00",
+      "FileName": "screenshots/shot_20260701_120549_755.jpg",
+      "Reason": "Cambio a app no permitida: explorer — "
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:50.7339394-05:00",
+      "FileName": "screenshots/shot_20260701_120550_733.jpg",
+      "Reason": "Cambio a app no permitida: GitHubDesktop — GitHub Desktop"
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:52.7459089-05:00",
+      "FileName": "screenshots/shot_20260701_120552_745.jpg",
+      "Reason": "Cambio a app no permitida: explorer — Conmutación de tareas"
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:54.7583562-05:00",
+      "FileName": "screenshots/shot_20260701_120554_758.jpg",
+      "Reason": "Cambio a app no permitida: GitHubDesktop — GitHub Desktop"
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:55.742295-05:00",
+      "FileName": "screenshots/shot_20260701_120555_742.jpg",
+      "Reason": "Cambio a app no permitida: explorer — REpositorio_Robert - Explorador de archivos"
+    },
+    {
+      "Timestamp": "2026-07-01T12:05:59.7993894-05:00",
+      "FileName": "screenshots/shot_20260701_120559_799.jpg",
+      "Reason": "Cambio a app no permitida: explorer — Conmutación de tareas"
+    },
+    {
+      "Timestamp": "2026-07-01T12:06:03.8073399-05:00",
+      "FileName": "screenshots/shot_20260701_120603_807.jpg",
+      "Reason": "Cambio a app no permitida: explorer — Ejecutar - Explorador de archivos"
+    },
+    {
+      "Timestamp": "2026-07-01T12:06:06.8394874-05:00",
+      "FileName": "screenshots/shot_20260701_120606_839.jpg",
+      "Reason": "Cambio a app no permitida: explorer — REpositorio_Robert - Explorador de archivos"
+    },
+    {
+      "Timestamp": "2026-07-01T12:06:08.97442-05:00",
+      "FileName": "screenshots/shot_20260701_120608_974.jpg",
+      "Reason": ""
+    },
+    {
+      "Timestamp": "2026-07-01T12:06:18.9146396-05:00",
+      "FileName": "screenshots/shot_20260701_120618_914.jpg",
+      "Reason": "Cambio a app no permitida: explorer — resultados - Explorador de archivos"
+    },
+    {
+      "Timestamp": "2026-07-01T12:06:19.9046663-05:00",
+      "FileName": "screenshots/shot_20260701_120619_904.jpg",
+      "Reason": "Cambio a app no permitida: explorer — evaluacion_20260701_093808 - Explorador de archivos"
+    },
+    {
+      "Timestamp": "2026-07-01T12:06:23.9006798-05:00",
+      "FileName": "screenshots/shot_20260701_120623_900.jpg",
+      "Reason": "Cambio a app no permitida: explorer — REpositorio_Robert - Explorador de archivos"
+    }
+  ]
+}
